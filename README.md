@@ -5,6 +5,9 @@
 
 Challenge del programa ONE de Oracle/Alura, en dónde se replica el proceso a nivel de back end; creando una API REST utilizando Spring con rutas implementadas siguiendo las mejores prácticas del modelo REST.
 
+
+<p align="center"><img src="https://github.com/user-attachments/assets/745fd249-6a0c-4eba-a8df-ddcee13b42c6"></p>
+
 ## Funcionalidades
 
 Se impementa una base de datos relacional para la persistencia de la información, se realiza las validaciones según las reglas de negocio, tiene el servicio de autenticación/autorización para restringir el acceso a la información y esta API se centra específicamente en los tópicos, y permite a los usuarios:
