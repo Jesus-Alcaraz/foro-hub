@@ -33,14 +33,14 @@ Eliminar un tópico.
 * Versión Java SpringBoot (Initializr) 17
 * Versión Java Intellij 21
 
-## Demostración
+## Funcionamiento
 
 Se requieren crear un usuario con email y su clave en hash de tipo bcrypt en la base de datos y los perfiles.
 Posteriormente hacer login y realizar nuevos registros para topicos y respuestas.
 
-Tópicos de la aplicación
+<p align="center"><img src="https://github.com/user-attachments/assets/745fd249-6a0c-4eba-a8df-ddcee13b42c6"></p>
 
-https://github.com/Gercodex/Foro-Hub-Challenge/assets/157858339/bd74e9cc-e33f-46e2-8027-17d5598d13cf
+
 
 
 
