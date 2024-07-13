@@ -38,8 +38,9 @@ Eliminar un tópico.
 Se requieren crear un usuario con email y su clave en hash de tipo bcrypt en la base de datos y los perfiles.
 Posteriormente hacer login y realizar nuevos registros para topicos y respuestas.
 
-<p align="center"><img src="https://github.com/user-attachments/assets/745fd249-6a0c-4eba-a8df-ddcee13b42c6"></p>
+## Documentación con Swagger
 
+<p align="center"><img src="https://github.com/user-attachments/assets/b10070de-7204-4735-9f1d-6735b3576944"></p>
 
 
 
