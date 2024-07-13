@@ -3,15 +3,15 @@
 
 ## Descripción Del Proyecto
 
-Challenge de una aplicación de foro para desarrollar del programa ONE y Alura Latam
+Challenge del programa ONE de Oracle/Alura para contruir una API REST para desarrollar un foro 
 
 ## Funcionalidades
 
-* Permite hacer login ingresando el email y clave de usuario.
-* Mediante autenticación es posible realizar operaciones CRUD para cursos, perfiles, usuarios, respuestas, topicos.
-* Se genera la documentación de la api mediante Swagger-ui accediendo en el navegador.
+* Mediante autenticación es posible realizar operaciones CRUD para usuarios de distintos perfiles con sus respectivos topicos
+* Permite hacer login ingresando el email y clave de usuario
+* Se genera la documentación de la api mediante Swagger
 
-## Dependencias (ver pom.xml)
+## Dependencias
 
 * Swagger
 * Lombok
