@@ -1,5 +1,8 @@
 <h1 align="center"> FORO HUB </h1>
 
+# Badge
+
+![Badge-Spring](https://github.com/user-attachments/assets/dfebfec6-8c30-48fe-acdf-9690932c3fb9)
 
 ## Descripción Del Proyecto
 
